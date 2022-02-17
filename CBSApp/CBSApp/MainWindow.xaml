@@ -1,0 +1,34 @@
+﻿<Window x:Class="CBSApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CBSApp"
+        mc:Ignorable="d"
+        Title="CBS - Gediplomeerden; leeftijd, woonregio" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="5*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Button Content="Retrieve" Grid.Column="0" Grid.Row="0" Click="Button_Click"/>
+        <TabControl Grid.Column="1" Grid.Row="0" Grid.RowSpan="2" >
+            <TabItem Header="Table">
+                <DataGrid Name="AllDataDataGrid" ItemsSource="{Binding Graduates}"/>
+            </TabItem>
+            <TabItem Header="Readable">
+                <DataGrid Name="ReadableDataGrid" ItemsSource="{Binding GraduatesReadable}"/>
+            </TabItem>
+            <TabItem Header="Grouped">
+                <!--<DataGrid Name="GroupedDataGrid" ItemsSource="{Binding Graduates}"/>-->
+            </TabItem>
+            <TabItem Header="Graph">
+                
+            </TabItem>
+        </TabControl>
+    </Grid>
+</Window>

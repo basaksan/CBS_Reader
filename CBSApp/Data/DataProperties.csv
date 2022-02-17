@@ -1,0 +1,8 @@
+ID;Position;ParentID;Type;Key;Title;Description
+0;0;;Dimension;Geslacht;Geslacht;
+1;1;;Dimension;Leeftijd;Leeftijd;
+2;2;;Dimension;Onderwijssoort;Onderwijssoort;
+3;3;;Dimension;Migratieachtergrond;Migratieachtergrond;
+4;4;;GeoDimension;RegioS;Regio's;
+5;5;;TimeDimension;Perioden;Perioden;
+6;6;;Topic;Gediplomeerden_1;Gediplomeerden;Mensen die met goed gevolg een afsluitend examen voor een bepaalde onderwijssoort hebben afgelegd.

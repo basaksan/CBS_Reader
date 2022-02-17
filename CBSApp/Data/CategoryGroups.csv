@@ -1,0 +1,21 @@
+ID;DimensionKey;Title;Description;ParentID
+0;Leeftijd;Leeftijdsgroepen;;
+1;Leeftijd;Totaal leeftijd;;0
+2;Leeftijd;12 tot 15 jaar;;0
+3;Leeftijd;15 tot 20 jaar;;0
+4;Leeftijd;20 tot 25 jaar;;0
+5;Leeftijd;25 tot 30 jaar;;0
+6;Leeftijd;30 tot 35 jaar;;0
+7;Leeftijd;35 tot 40 jaar;;0
+8;Leeftijd;40 tot 45 jaar;;0
+9;Leeftijd;45 tot 50 jaar;;0
+10;Leeftijd;50 jaar of ouder;;0
+11;Leeftijd;Leeftijd onbekend;;0
+12;Onderwijssoort;Onderwijssoorten/-niveaus gegroepeerd;;
+13;Onderwijssoort;Voortgezet onderwijs;;12
+14;Onderwijssoort;Vavo;;12
+15;Onderwijssoort;Middelbaar beroepsonderwijs;;12
+16;Onderwijssoort;Hoger onderwijs;;12
+17;Migratieachtergrond;Migratieachtergrond;;
+18;Migratieachtergrond;Totaal;;17
+19;Migratieachtergrond;Migratieachtergr. westers, niet-westers;;17

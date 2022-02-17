@@ -1,0 +1,29 @@
+Key;Title;Description;CategoryGroupID
+T001040;Totaal;;18
+1012600;Nederlandse achtergrond;"Persoon met een Nederlandse achtergrond
+
+Persoon van wie de beide ouders in Nederland zijn geboren.";18
+2012605;Met migratieachtergrond;"Persoon met een migratieachtergrond
+
+Persoon van wie ten minste één ouder in het buitenland is geboren.";18
+2012655;Westerse migratieachtergrond;"Persoon met een westerse migratieachtergrond
+
+Persoon met als migratieachtergrond een van de landen in Europa (exclusief Turkije), Noord-Amerika en Oceanië, en Indonesië en Japan. 
+Op grond van hun sociaal- economische en sociaal-culturele positie worden personen met een migratieachtergrond uit Indonesië en Japan tot de westerse migratieachtergrond gerekend. Het gaat vooral om mensen die in het voormalig Nederlands-Indië zijn geboren en werknemers van Japanse bedrijven met hun gezin.";19
+2012657;Niet-westerse migratieachtergrond;"Persoon met een niet-westerse migratieachtergrond
+
+Persoon met als migratieachtergrond een van de landen in Afrika, Latijns-Amerika en Azië (exclusief Indonesië en Japan) of Turkije. Op grond van hun sociaal-economische en sociaal-culturele positie worden personen met een migratieachtergrond uit Indonesië en Japan tot de westerse migratieachtergrond gerekend. Het gaat vooral om mensen die in het voormalig Nederlands-Indië zijn geboren en werknemers van Japanse bedrijven met hun gezin.";19
+H008766;Turkije;;19
+H008673;Marokko;Marokko, Ifni, Spaanse Sahara, Westelijke Sahara.;19
+H008751;Suriname;;19
+H007119;(voormalige) Nederlandse Antillen, Aruba;"Betreft een samentelling van de eilanden die tot het grondgebied van de Nederlandse Antillen en Aruba van vóór 10 oktober 2010 behoorden. Het gaat om de eilanden Bonaire, Curaçao, Saba, Sint-Eustatius, Sint-Maarten en Aruba. 
+ 
+Vanaf 10 oktober 2010 zijn de Nederlandse Antillen ontbonden. Het Koninkrijk der Nederlanden bestaat dan uit vier landen: Nederland, Aruba, Curaçao en Sint Maarten. Alle eilanden hebben een nieuwe status. 
+Curaçao en Sint Maarten zijn nieuwe landen binnen het Koninkrijk. Met een 'Status aparte' binnen het Koninkrijk zijn Curaçao en Sint Maarten autonome landen. De landen hebben een zelfstandig bestuur en zijn niet meer afhankelijk van Nederland. De openbare lichamen Bonaire, Sint Eustatius en Saba, ook wel Caribisch Nederland, hebben een diepere band met Nederland en functioneren als bijzondere gemeente van Nederland. 
+ 
+Op 1 januari 1986 werd Aruba afgescheiden van de Nederlandse Antillen. Sinds die datum is Aruba een nieuw land binnen het Koninkrijk de Nederlanden. Met een 'Status aparte' binnen het Koninkrijk is Aruba een autonoom land. Aruba heeft een zelfstandig bestuur en is niet meer afhankelijk van Nederland.";19
+A008187;Overige niet-westerse migratieachterg...;"Persoon met een niet eerder genoemde niet-westerse migratieachtergrond
+
+Persoon met een niet-westerse migratieachtergrond:
+Persoon met als migratieachtergrond een van de landen in Afrika, Latijns-Amerika en Azië (exclusief Indonesië en Japan) of Turkije. Op grond van hun sociaal-economische en sociaal-culturele positie worden personen met een migratieachtergrond uit Indonesië en Japan tot de westerse migratieachtergrond gerekend. Het gaat vooral om mensen die in het voormalig Nederlands-Indië zijn geboren en werknemers van Japanse bedrijven met hun gezin.";19
+2012659;Onbekende migratieachtergrond;Onbekend, Internationaal gebied.;18

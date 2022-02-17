@@ -1,0 +1,27 @@
+Key;Title;Description;CategoryGroupID
+T001345;Totaal voortgezet onderwijs (vo);Voortgezet onderwijs. Omvat algemene leerjaren, voorbereidend wetenschappelijk onderwijs (vwo), hoger algemeen voortgezet onderwijs (havo), voorbereidend middelbaar beroepsonderwijs (vmbo) inclusief leerwegondersteundend onderwijs (lwoo) en praktijkonderwijs.;13
+A025284;Vwo;Voorbereidend wetenschappelijk onderwijs (vwo).;13
+A025285;Havo;Hoger algemeen voortgezet onderwijs (havo).;13
+A025288;Vmbo g/t;Gemengde en theoretische leerweg van het voorbereidend middelbaar beroepsonderwijs (vmbo).;13
+A025287;Vmbo-b/k;De basis- en kaderberoepsgerichte leerweg van het voorbereidend middelbaar beroepsonderwijs (vmbo).;13
+A025300;Vavo;"Voortgezet algemeen volwassenenonderwijs
+
+Dit onderwijs was oorspronkelijk voor volwassenen opgezet, maar is steeds meer tweedekansonderwijs geworden voor leerlingen die niet gelijk een diploma in het voortgezet onderwijs hebben behaald. Leerlingen in het vavo kunnen een diploma of deelcertificaat behalen op het niveau van vwo , havo of vmbo theoretische leerweg.";14
+A025290;Totaal mbo (incl. extranei);Totaal mbo bestaande uit de leerwegen bol (voltijd en deeltijd) en bbl plus de extranei.;15
+A041868;Bol totaal;Bol - beroepsopleidende leerweg (voltijd en deeltijd) totaal.;15
+A025293;Bbl totaal;Beroepsbegeleidende leerweg totaal. Deze leerweg is meer praktijkgericht dan de bol.;15
+A041773;Extranei;Leerlingen of studenten die uitsluitend ingeschreven staan om examen te doen.;15
+A041751;Mbo-entreeopleiding;Mbo entreeopleiding - opleiding tot assisterend beroepsbeoefenaar met de duur van één jaar.;15
+A041755;Mbo niveau 2;Mbo basisberoepsopleiding (niveau 2) - opleiding tot basisberoepsbeoefenaar met de duur van twee tot en met drie jaar.;15
+A041759;Mbo niveau 3;Mbo vakopleiding (niveau 3) - opleiding tot zelfstandig beroepsbeoefenaar met de duur van twee tot en met vier jaar.;15
+A041924;Mbo niveau 4a;"Middenkaderopleiding (niveau 4a) - opleiding tot middenkaderfunctionaris met de duur van drie tot en met vier jaar.dit is een vervolg op de vakopleiding (niveau 3). 
+
+Met een diploma op het hoogste niveau van het mbo kan worden doorgestroomd naar het hbo.";15
+A041925;Mbo niveau 4b;Specialistenopleiding (niveau 4b) - opleiding tot specialist met de duur van één tot en met twee jaar. Dit is een vervolg op de vakopleiding (niveau 3).;15
+A028669;Hbo-associate degree;Dit betreft een opleiding binnen het hoger beroepsonderwijs met een studieduur van twee jaar. Deze opleiding wordt afgesloten met een associate degree-diploma.;16
+A043049;Hbo-bachelor;Dit betreft een opleiding binnen het hoger beroepsonderwijs met een studieduur van vier jaar. Deze opleiding wordt afgesloten met een bachelor-diploma.;16
+A043051;Hbo-master/vervolgopleiding;Dit betreft een opleiding binnen het hoger beroepsonderwijs met een studieduur van 1 à 2 jaar. Deze opleiding wordt afgesloten met een master-diploma. Vóór de invoering van het bachelor-masterstelsel (2002/'03) konden de gediplomeerden van bepaalde opleidingen in het hoger beroepsonderwijs zich inschrijven voor een vervolg- of beroepsopleiding. Deze opleidingen werden ook wel voortgezette of tweede-fase-opleidingen genoemd. Na invoering van het bachelor-masterstelsel zijn de meeste vervolgopleidingen omgezet in een masteropleiding. Ook de zogenaamde postmaster-opleidingen vallen onder deze categorie.;16
+A043054;Wo-bachelor;Dit betreft een opleiding binnen het wetenschappelijk onderwijs met een studieduur van drie jaar. Deze opleiding wordt afgesloten met een bachelor-diploma.;16
+A043055;Wo-master;Dit betreft een opleiding binnen het wetenschappelijk onderwijs met een studieduur van een tot vier jaar. Deze opleiding wordt afgesloten met een master-diploma.;16
+A028672;Wo-doctoraal;Dit betreft een oude opleiding binnen het wetenschappelijk onderwijs met een studieduur van vier jaar. Deze opleiding werd afgesloten met een doctoraal-diploma. Met ingang van het studiejaar 2002/'03 is in het hoger onderwijs het bachelor-masterstelsel ingevoerd. Het masterdiploma is daarna in de plaats gekomen van het doctoraaldiploma.;16
+A043056;Wo-vervolgopleiding;Dit betreft een oude opleiding binnen het wetenschappelijk onderwijs met een studieduur van twee jaar. Vóór de invoering van het bachelor-masterstelsel (2002/'03) konden de gediplomeerden van bepaalde opleidingen in wetenschappelijk onderwijs zich inschrijven voor een vervolg- of beroepsopleiding. Deze opleidingen werden ook wel voortgezette of tweede-fase-opleidingen genoemd. Na invoering van het bachelor-masterstelsel zijn de meeste vervolgopleidingen omgezet in een masteropleiding. Ook de zogenaamde postmaster-opleidingen vallen onder deze categorie.;16

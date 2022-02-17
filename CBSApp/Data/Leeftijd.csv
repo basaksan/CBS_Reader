@@ -1,0 +1,26 @@
+Key;Title;Description;CategoryGroupID
+10000;Totaal;;1
+11200;12 jaar;;2
+11300;13 jaar;;2
+11400;14 jaar;;2
+11500;15 jaar;;3
+11600;16 jaar;;3
+11700;17 jaar;;3
+11800;18 jaar;;3
+11900;19 jaar;;3
+12000;20 jaar;;4
+12100;21 jaar;;4
+12200;22 jaar;;4
+12300;23 jaar;;4
+12400;24 jaar;;4
+12500;25 jaar;;5
+12600;26 jaar;;5
+12700;27 jaar;;5
+12800;28 jaar;;5
+12900;29 jaar;;5
+70700;30 tot 35 jaar;;6
+70800;35 tot 40 jaar;;7
+70900;40 tot 45 jaar;;8
+71000;45 tot 50 jaar;;9
+21300;50 jaar of ouder;;10
+99999;Leeftijd onbekend;;11
